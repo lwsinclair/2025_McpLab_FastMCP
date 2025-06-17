@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yamato-snow-2025-mcplab-fastmcp-badge.png)](https://mseep.ai/app/yamato-snow-2025-mcplab-fastmcp)
+
 # FastMCP
 
 FastMCPは、クライアントセッション管理が可能な[MCP](https://glama.ai/mcp)サーバーを構築するためのTypeScriptフレームワークです。
